@@ -402,6 +402,7 @@ margin: 10px;
 border-radius: 50%;
 position: relative;
 z-index: 2;
+background: var(--bg-color);
 }
 
 .me .loop::after{
